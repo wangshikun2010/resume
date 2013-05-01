@@ -1,0 +1,82 @@
+body {
+	font-family: 'Microsoft Yahei', 'Sim Sun', Verdana, Arial, Sans-serif;
+	font-size: 15px;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	border: 0;
+	outline: none;
+}
+
+h1 {
+	border-bottom: 1px solid #dddddd;
+	padding-bottom: 10px;
+}
+
+h2 {
+	font-size: 18px;
+	background: #dcdcdc;
+	background: #8ba9c0 -webkit-gradient(linear, left top, left bottom, from(#fefefe), to(#efefef));
+	background-image: -webkit-linear-gradient(top, #fefefe, #efefef);
+	background-image: -moz-linear-gradient(top, #fefefe, #efefef);
+	background-image: -ms-linear-gradient(top, #fefefe, #efefef);
+	background-image: -o-linear-gradient(top, #fefefe, #efefef);
+	background-image: linear-gradient(top, #fefefe, #efefef);
+	color: #555555;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 3px 10px;
+	line-height: 30px;
+}
+
+h3 {
+	font-size: 16px;
+	margin: 0px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+h2 small {
+	margin-left: 1em;
+	font-size: 0.75em;
+}
+
+h1 .pull-right {
+	font-size: 0.6em;
+	float: right;
+}
+
+/* Main */
+#main,
+#main li {
+	line-height: 1.8em;
+}
+
+#main span.label {
+	font-size: 0.85em;
+}
+
+#main span.date {
+	margin-left: 0px;
+}
+
+#basic #avatar {
+	margin-top: 20px;
+}
+
+#basic .links img {
+	width: 24px;
+	height: 24px;
+}
+
+#basic .links a {
+	text-decoration: none;
+}
