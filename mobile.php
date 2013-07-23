@@ -20,7 +20,11 @@
             <p>王仕昆<small>（男·20）</small></p>
         </div>
 
-        <p class="intro">自学前端技术14个月，期间制作多个小项目，能熟练运用HTML，CSS，Javascript制作网页，具有良好的编码习惯，熟悉面向对象。热爱前端技术，希望从事前端开发，<span class="label label-info">求职目标</span>为：WEB前端开发</p>
+        <p class="intro">自学前端技术14个月，期间制作多个小项目，能熟练运用HTML，CSS，Javascript制作网页，具有良好的编码习惯，熟悉面向对象。热爱前端技术，希望从事前端开发，
+            <span class="label label-info">求职目标</span>为：WEB前端开发。
+            <span class="label label-info">个人作品链接</span>：<a href="http://shikun.fegeeks.com/demos">http://shikun.fegeeks.com/demos</a>，
+            <span class="label label-info">github</span>：<a href="https://github.com/wangshikun2010">https://github.com/wangshikun2010</a>。
+        </p>
 
         <div data-role="collapsible-set" data-theme="c" data-content-theme="d" class="ui-collapsible-set">
 

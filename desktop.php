@@ -15,8 +15,8 @@
         <div id="detail" class="span10">
             <h1>王仕昆<small>（男）</small><span class="pull-right visible-desktop">求职意向：前端工程师</span></h1>
             <div class="row">
-                <div class="span3">学历：中专</div>
-                <div class="span3">年龄：20</div>
+                <div class="span3">学历：大专</div>
+                <div id="span3" class="span3">年龄：20</div>
             </div>
             <div class="row">
                 <div class="span6">邮箱：<a href="mailto:wangshikun2010@gmail.com">wangshikun2010@gmail.com</a></div>
@@ -47,7 +47,11 @@
 
     <section id="overview">
         <h2 class="title">综合自评<small>Overview</small></h2>
-        <p class="intro">自学前端技术14个月，期间制作多个小项目，能熟练运用HTML，CSS，Javascript制作网页，具有良好的编码习惯，熟悉面向对象。热爱前端技术，希望从事前端开发，<span class="label label-info">求职目标</span>为：WEB前端开发</p>
+        <p class="intro">自学前端技术14个月，期间制作多个小项目，能熟练运用HTML，CSS，Javascript制作网页，具有良好的编码习惯，熟悉面向对象。热爱前端技术，希望从事前端开发，
+            <span class="label label-info">求职目标</span>为：WEB前端开发。
+            <span class="label label-info">个人作品链接</span>：<a href="http://shikun.fegeeks.com/demos">http://shikun.fegeeks.com/demos</a>，
+            <span class="label label-info">github</span>：<a href="https://github.com/wangshikun2010">https://github.com/wangshikun2010</a>。
+        </p>
     </section>
 
     <section id="skills">
