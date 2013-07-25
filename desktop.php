@@ -49,7 +49,7 @@
         <h2 class="title">综合自评<small>Overview</small></h2>
         <p class="intro">自学前端技术14个月，期间制作多个小项目，能熟练运用HTML，CSS，Javascript制作网页，具有良好的编码习惯，熟悉面向对象。热爱前端技术，希望从事前端开发，
             <span class="label label-info">求职目标</span>为：WEB前端开发。
-            <span class="label label-info">个人作品链接</span>：<a href="http://shikun.fegeeks.com/demos">http://shikun.fegeeks.com/demos</a>，
+            <span class="label label-info">个人作品链接</span>：<a href="http://shikun.fegeeks.com/works/">http://shikun.fegeeks.com/works/</a>，
             <span class="label label-info">github</span>：<a href="https://github.com/wangshikun2010">https://github.com/wangshikun2010</a>。
         </p>
     </section>
@@ -65,6 +65,19 @@
             <li>熟悉<strong>版本控制</strong>系统SVN和Git的使用，了解Github和GoogleCode等服务；</li>
             <li>能用<strong>Photoshop</strong>进行简单的平面设计和图像处理。</li>
         </ul>
+    </section>
+
+    <section id="works">
+        <h2 class="title">工作经历<small>Works</small></h2>
+        <div class="subsection">
+            <h3>
+                <span class="date span3">2010.07~2011.12</span>
+                <span class="company">珠海伟创力电子科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生产制造部</span>
+            </h3>
+            <ul>
+                <li>生产线操作员，主要负责电子产品电路板的生产和制造。</li>
+            </ul>
+        </div>
     </section>
 
     <section id="projects">
