@@ -19,7 +19,7 @@ foreach ($keywords as $keyword) {
 }
 
 if ($isMobile) {
-    include 'mobile.php';
-} else {
     include 'desktop.php';
+} else {
+    include 'mobile.php';
 }

@@ -23,19 +23,12 @@
                 <div class="span4">电话：<a href="tel:18810331153">188-1033-1153</a></div>
             </div>
             <div class="row">
-                <div class="span6">业余爱好：计算机、音乐、烹饪</div>
-                <div class="span4">毕业时间：2011-03</div>
+                <div class="span6">作品：<a href="http://shikun.fegeeks.com/works/">http://shikun.fegeeks.com/works/</a></div>
+                <div class="span4">github：<a href="https://github.com/wangshikun2010">https://github.com/wangshikun2010</a></div>
             </div>
             <div class="row">
-                <div class="span8 links">
-                    相关链接：
-                    <a href="https://github.com/wangshikun2010" target="_blank">
-                        <img src="img/github.png" alt="GitHub" title="我的GitHub">
-                    </a>
-                    <a href="http://weibo.com/wangshikun2010" target="_blank">
-                        <img src="img/weibo.png" alt="WeiBo" title="我的新浪微博">
-                    </a>
-                </div>
+                <div class="span6">业余爱好：计算机、音乐、烹饪</div>
+                <div class="span4">毕业时间：2011-03</div>
             </div>
         </div>
      <!--    <div id="avatar" class="span2 visible-desktop">
@@ -49,8 +42,6 @@
         <h2 class="title">综合自评<small>Overview</small></h2>
         <p class="intro">自学前端技术14个月，期间制作多个小项目，能熟练运用HTML，CSS，Javascript制作网页，具有良好的编码习惯，熟悉面向对象。热爱前端技术，希望从事前端开发，
             <span class="label label-info">求职目标</span>为：WEB前端开发。
-            <span class="label label-info">个人作品链接</span>：<a href="http://shikun.fegeeks.com/works/">http://shikun.fegeeks.com/works/</a>，
-            <span class="label label-info">github</span>：<a href="https://github.com/wangshikun2010">https://github.com/wangshikun2010</a>。
         </p>
     </section>
 
@@ -96,23 +87,24 @@
         <div class="subsection">
             <h3>
                 <span class="date span3">2013.05</span>
-                <span class="company">数独游戏</span>
+                <span class="company">数独游戏和语音计算器</span>
             </h3>
             <ul>
-                <li>利用回溯算法生成可解数独，并按难易程度挖空数独用于用户填写；</li>
-                <li>用户填写时根据数独游戏规则验证输入是否正确，并验证游戏是否完成；</li>
+                <li>利用回溯算法生成数独的可行解，并支持不同难度的玩家设置；</li>
+                <li>实现简单的计算器应用，并利用自行录制的声音实现语音发声；</li>
                 <li>使用的语言和技术：HTML、CSS、Javascript。</li>
             </ul>
         </div>
         <div class="subsection">
             <h3>
-                <span class="date span3">2013.04</span>
-                <span class="company">语音计算器</span>
+                <span class="date span3">2012.06</span>
+                <span class="company">主流网站首页仿制</span>
             </h3>
             <ul>
-                <li>利用自行录制的声音和HTML5，实现计算器的语音发声；</li>
-                <li>使用分割算法处理计算结果，并以标准模式读取计算结果；</li>
-                <li>使用的语言和技术：HTML5、CSS、Javascript。</li>
+                <li>仿制科技新闻类网站36氪，熟悉典型的三栏、两栏、固定和浮动布局；</li>
+                <li>仿制电子商务类网站etao网，熟悉机具弹性的网格式布局；</li>
+                <li>仿制图片分享类网站顽兔网，熟悉瀑布流布局和按需加载；</li>
+                <li>使用的语言和技术：HTML，CSS。</li>
             </ul>
         </div>
     </section>
