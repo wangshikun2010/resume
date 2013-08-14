@@ -20,7 +20,7 @@
             <p>王仕昆<small>（男·20）</small></p>
         </div>
 
-        <p class="intro">自学前端技术14个月，期间制作多个小项目，能熟练运用HTML，CSS，Javascript制作网页，具有良好的编码习惯，熟悉面向对象。热爱前端技术，希望从事前端开发，
+        <p class="intro">自学前端技术1年，具有半年前端工作经验，能熟练运用HTML，CSS，Javascript制作网页。具有良好的编码习惯，熟悉面向对象。热爱前端技术，希望从事前端开发，
             <span class="label label-info">求职目标</span>为：WEB前端开发。
         </p>
 
@@ -43,11 +43,13 @@
                 <h2 class="title">工作经历<small>Works</small></h2>
                 <div class="subsection">
                     <h3>
-                        <span class="date span3">2010.07~2011.12</span>
-                        <span class="company">&nbsp;&nbsp;&nbsp;&nbsp;珠海伟创力电子科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生产制造部</span>
+                        <span class="date span3">2013.01~2013.07</span>
+                        <span class="company">蒙达领航科技发展有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术部</span>
                     </h3>
                     <ul>
-                        <li>生产线操作员，主要负责电子产品电路板的生产和制造。</li>
+                        <li>前端工程师，负责公司官方网站页面更新和日常维护工作；</li>
+                        <li>使用Photoshop进行简单的平面设计，并转换成兼容主流浏览器的网页；</li>
+                        <li>使用的语言和技术：HTML、CSS、Javascript、Ajax、jQuery、Photoshop。</li>
                     </ul>
                 </div>
             </div>
